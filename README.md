@@ -9,6 +9,9 @@ The model replaces a one-directional segment of Brno tram lines 1 and 6
 The goal is to check whether such a system can move people faster than trams
 while keeping waiting times acceptable.
 
+> Course project for **IMS (Modelling and Simulation)** at FIT, Brno University
+> of Technology.
+
 ## How it works
 
 Every stop has a single lift, a pool of capsules and a number of landing places.
