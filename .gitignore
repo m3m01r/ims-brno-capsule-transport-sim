@@ -1,0 +1,7 @@
+capsules
+env
+*.out
+*.csv
+*.png
+*.o
+dokumentace.pdf
